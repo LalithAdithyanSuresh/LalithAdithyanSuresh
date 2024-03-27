@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalithadithyansuresh&show_icons=true&theme=dark&locale=en" alt="lalithadithyanuresh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalithadithyanuresh&theme=dark" alt="lalithadithyanuresh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalithadithyansuresh&theme=dark" alt="lalithadithyansuresh" /></p>
